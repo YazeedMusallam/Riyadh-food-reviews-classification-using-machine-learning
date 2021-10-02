@@ -1,13 +1,13 @@
 # Regression_Project
 
-### Riyadh food reviews classfication using Linear Regression
+### Riyadh food reviews classfication using sentiment analysis
 
 #### By:
 > - Yazeed Musallam
 
 ## Background:
 #### Company info:
-> iAQAR for real-estate anaylsis.
+> Foodalytics.
 
 #### Problem statement:
 > User reviews are important for resturents owners, hence classfying a postive or negtive review is an esstial task for resturent owners.
