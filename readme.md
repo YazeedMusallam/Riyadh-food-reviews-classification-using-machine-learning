@@ -14,7 +14,7 @@
 > Classifing i.e. twitter post by human is time consuming, hence creating an automated ML model to classify postive or negative posts for restaurant enhancement is important.
 #### Value of the company and recommendations.
 The primarily goal of project to answer the following questions/needs:
-* Is the review postive or negtive?
+* Is the review postive or negative?
 * From user reviews, how we can enhance our restaurant?
 
 ## Data Description:
