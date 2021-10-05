@@ -10,18 +10,20 @@
 > Foodalytics.
 
 #### Problem statement:
-> User reviews are important for resturents owners, hence classfying a postive or negtive review is an esstial task for resturent owners.
-> Classifing i.e. twitter post is time consuming, hence creating an ML model to classify negitve posts for imporvments is important.
+> User reviews are important for restaurants owners, hence classfying a postive or negative review is an essential task for restaurant owners.
+> Classifing i.e. twitter post by human is time consuming, hence creating an automated ML model to classify postive or negative posts for restaurant enhancement is important.
 #### Value of the company and recommendations.
 The primarily goal of project to answer the following questions/needs:
-* Is it postive or negtive review?
-* What are common in negtive reviews?
+* Is the review postive or negtive?
+* From user reviews, how we can enhance our restaurant?
 
 ## Data Description:
 * Datasets with description: </br>
-This project based on the data scrapped from google maps:
+This project based on the following datasets:
 
-> The review are scrapped from google maps: https://maps.google.com/maps<br />
+> The first dataset contains food reviews which are scrapped from google maps: https://maps.google.com/maps<br />
+> <br />
+> The second dataset contains amazon food reviews reviews collected from Kaggle: https://www.kaggle.com/snap/amazon-fine-food-reviews <br />
 
 
 ## Scope of the work
@@ -31,7 +33,7 @@ Sample size:
 
 > Only riyadh city will be involved in this project.
 
-Description for the datset as num of rows, number of features/columns, names of columns with description:
+Description for the scrapped dataset as num of rows, number of features/columns, names of columns with description:
 
 Description of scrapped data: </br>
 The dataset represent the reviews of riyadh's resturents
@@ -49,6 +51,27 @@ The dataset represent the reviews of riyadh's resturents
 | Date        | Date of the review                                                   |
 | Restaurant        | Restaurant name                                                             |
 
+<br />
+Description for the amazon food reviews dataset as num of rows, number of features/columns, names of columns with description:
+
+Description of scrapped data: </br>
+The dataset represent the reviews of riyadh's resturents
+
+> Number of features:  7 features/Columns
+
+> Number of rows: Approx.: ~500K rows
+
+> Names of columns with description and type:
+
+| Field Name | Description                                                                      |
+|-------------|---------------------------------------------------------------------------------|
+| Id| Row ID|
+| ProductId      |Unique identifier for the product                                           |                                 |
+| UserId        | Unqiue identifier for the user                                                   |
+| ProfileName        | Profile name of the user                                                             |
+| HelpfulnessNume        | Number of users who found the review helpful                                                             |
+| HelpfulnessDenume        | Number of users who indicated whether they found the review helpful or not |
+| Score        | User score |
 
 
 
@@ -64,15 +87,18 @@ Libraries:
 > - pickle
 > - BeautifulSoup and selenium
 > - OS
-> - Matplotlib
-> - Seaborn
+> - Matplotlib/Seaborn
+> - SQLite/SQLalchemy
 > - NumPy
 > - Sklearn
 > - Tensorflow/keras
 > - Plotly
+> - GoogleTrans
+> - WordCloud
 
 Processing tools: 
 > Google Colab
-
+> </br>
+> Heroku
 Note:
 > During the project analysis, some additional tools may be used.
