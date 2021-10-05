@@ -10,11 +10,11 @@
 > Foodalytics.
 
 #### Problem statement:
-> User reviews are important for restaurants owners, hence classfying a postive or negative review is an essential task for restaurant owners.
-> Classifing i.e. twitter post by human is time consuming, hence creating an automated ML model to classify postive or negative posts for restaurant enhancement is important.
+> User reviews are important for restaurants owners, hence classfying a positive or negative review is an essential task for restaurant owners.
+> Classifing i.e. twitter post by human is time consuming, hence creating an automated ML model to classify positive or negative posts for restaurant enhancement is important.
 #### Value of the company and recommendations.
 The primarily goal of project to answer the following questions/needs:
-* Is the review postive or negative?
+* Is the review positive or negative?
 * From user reviews, how we can enhance our restaurant?
 
 ## Data Description:
