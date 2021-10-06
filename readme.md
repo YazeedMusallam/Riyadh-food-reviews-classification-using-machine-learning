@@ -7,7 +7,7 @@
 
 ## Background:
 #### Company info:
-> Foodalytics.
+> Foodalytics: Trusted analysis to improve your restaurant!
 
 #### Problem statement:
 > User reviews are important for restaurants owners, hence classfying a positive or negative review is an essential task for restaurant owners.
@@ -98,8 +98,6 @@ Libraries:
 
 Processing tools: 
 > Google Colab
-> </br>
-> Heroku
 > </br>
 
 Note:
