@@ -55,7 +55,7 @@ The dataset represent the reviews of riyadh's restaurants
 Description for the amazon food reviews dataset as num of rows, number of features/columns, names of columns with description:
 
 Description of scrapped data: </br>
-The dataset represent the reviews of riyadh's resturents
+The dataset represent the reviews of riyadh's restaurants
 
 > Number of features:  7 features/Columns
 
