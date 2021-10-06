@@ -29,7 +29,7 @@ This project based on the following datasets:
 ## Scope of the work
 Sample size:
 
->  Apporx 270 resturents with 100k reviews.
+>  Apporx. 270 restaurants with 100k reviews.
 
 > Only riyadh city will be involved in this project.
 
