@@ -21,10 +21,10 @@
 >The best found was LSTM achieving ROC AUC score of 90.
 
 ### Findings:
-![image](https://raw.githubusercontent.com/Naif-Albader/Regression_Project/main/images/RealVsPredicted.png)
-> The above figure shows predicted target vs real target; the figure shows a slight good model.
+![image](https://raw.githubusercontent.com/YazeedMusallam/Riyadh-food-reviews-classification-using-machine-learning/main/images/cf.png)
+> The above figure shows the confusion matrix, it indicate a good model.
 <br>
 <br>
 
-![image](https://raw.githubusercontent.com/Naif-Albader/Regression_Project/main/images/Sample.png)
-> The above a sample of tested data (Area 500, Location: "الياسمين"), the prediction show the value of land after 5 years.
+![image](https://raw.githubusercontent.com/YazeedMusallam/Riyadh-food-reviews-classification-using-machine-learning/main/images/roc.png)
+> The above ROC-AUC curve, with ROC-AUC score: 0.90.
