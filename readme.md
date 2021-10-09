@@ -91,7 +91,6 @@ Libraries:
 > - NumPy
 > - Sklearn
 > - Tensorflow/keras
-> - Plotly
 > - GoogleTrans
 > - WordCloud
 
