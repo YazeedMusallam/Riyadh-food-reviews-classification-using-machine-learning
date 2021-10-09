@@ -1,6 +1,5 @@
-# Regression_Project
+# Riyadh food reviews classfication using sentiment analysis
 
-### Riyadh food reviews classfication using sentiment analysis
 
 #### By:
 > - Yazeed Musallam
