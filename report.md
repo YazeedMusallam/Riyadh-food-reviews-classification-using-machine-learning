@@ -7,7 +7,7 @@ By:
 
 
 ## Abstract
-Many Saudi people want to buy land in Riyadh city for investment, personal use but they don’t know the future of this investment hence, the goal of iAQAR is to use linear regression models to predict the Land price to help people to invest in the right place.
+Many restaurants struggle to find their weaknesses, some of them have good specific food such as burgers and bad french fries taste, hence customers’ reviews are important to improve the restaurant, hence proposing a machine learning model that could identify restaurants’ weaknesses is important.
 
 ## Design
 The data is scrapped from the Google maps and it represents the reviews of restaurants in Riyadh of 270 restaurant and the goal was to analysis it to answer these three main questions:
