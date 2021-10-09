@@ -122,13 +122,12 @@ Training workflow:
 > 4.6) Long short-term memory (LSTM)
 >The best found was BERT achieving F1-SCORE of 83.
 
-BERT </br>
-Results: </br>
- Training accuracy : 80%</br>
- Validation accuracy : 81.3%</br>
- Testing accuracy : 81.2%</br>
- F1 Score: 83%</br>
- ROC-AUC score: 89	</br>
+BERT results: </br>
+ > Training accuracy : 80%</br>
+ > Validation accuracy : 81.3%</br>
+ > Testing accuracy : 81.2%</br>
+ > F1 Score: 83%</br>
+ > ROC-AUC score: 89	</br>
 
 The main technologies and libraries that used are:
 > - Python
