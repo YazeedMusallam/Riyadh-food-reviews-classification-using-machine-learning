@@ -119,7 +119,7 @@ Training workflow:
 > 4.4) XGboost <br>
 > 4.4) Decision trees <br>
 > 4.5) Bert <br>
-> 4.6) Long short-term memory (LSTM)
+> 4.6) Long short-term memory (LSTM) </br>
 >The best found was BERT achieving F1-SCORE of 83.
 
 BERT results: </br>
